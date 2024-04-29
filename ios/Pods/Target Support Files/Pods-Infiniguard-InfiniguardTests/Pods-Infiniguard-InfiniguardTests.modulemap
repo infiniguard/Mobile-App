@@ -1,0 +1,6 @@
+module Pods_Infiniguard_InfiniguardTests {
+  umbrella header "Pods-Infiniguard-InfiniguardTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

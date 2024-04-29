@@ -1,0 +1,21 @@
+{
+  "name": "react-native-silent",
+  "version": "0.1.1",
+  "summary": "Library to detect if the device is in silent mode",
+  "homepage": "https://github.com/vitorverasm/react-native-silent#readme",
+  "license": "MIT",
+  "authors": "Vitor Veras <vitorverasm@gmail.com> (https://github.com/vitorverasm)",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/vitorverasm/react-native-silent.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "ios/**/*.{h,m,mm,swift}",
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}

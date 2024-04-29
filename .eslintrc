@@ -1,0 +1,99 @@
+{
+	"env": {
+	  "node": true,
+	  "browser": true,
+	  "es6": true
+	},
+	"parser": "babel-eslint",
+	"plugins": ["react", "import", "react-native"],
+	"extends": ["airbnb"],
+	"rules": {
+	  "semi": ["error", "never"],
+	  "camelcase": "off",
+	  "no-console": ["off"],
+	  "react/jsx-filename-extension": [
+		"error",
+		{
+		  "extensions": [".js", ".jsx"]
+		}
+	  ],
+	  "no-use-before-define": ["off"],
+	  "react/prop-types": ["off"],
+	  "global-require": ["off"],
+	  "no-alert": ["off"],
+	  "no-confusing-arrow": ["off"],
+	  "react/jsx-curly-newline": ["off"],
+	  "react/state-in-constructor": ["off"],
+	  "no-loop-func": ["off"],
+	  "function-paren-newline": ["off"],
+	  "no-nested-ternary": ["off"],
+	  "react/destructuring-assignment": ["off"],
+	  "import/prefer-default-export": ["off"],
+	  "react-native/no-unused-styles": ["error"],
+	  "react-native/split-platform-components": ["off"],
+	  "react-native/no-raw-text": ["error"],
+	  "no-bitwise": [
+		"error",
+		{
+		  "int32Hint": true
+		}
+	  ],
+	  "react/jsx-one-expression-per-line": ["off"],
+	  "react/jsx-curly-brace-presence": ["off"],
+	  "react/no-array-index-key": ["off"],
+	  "consistent-return": ["off"],
+	  "max-len": ["off"],
+	  "no-param-reassign": ["off"],
+	  "object-curly-newline": ["off"],
+	  "arrow-parens": ["off", "as-needed"],
+	  "array-callback-return": ["off"],
+	  "operator-linebreak": ["off"],
+	  "implicit-arrow-linebreak:": ["off"],
+	  "indent": ["off"],
+	  "linebreak-style": ["off"],
+	  "react/sort-comp": ["off"],
+	  "no-unused-expressions": ["off"],
+	  "react/no-access-state-in-setstate": ["off"],
+	  "no-shadow": ["off"],
+	  "prefer-object-spread": ["off"],
+	  "no-new-object": ["off"],
+	  "no-return-assign": ["off"],
+	  "arrow-body-style": ["off"],
+	  "default-case": ["off"],
+	  "import/order": ["off"],
+	  "prefer-template": ["off"],
+	  "no-plusplus": ["off"],
+	  "react/jsx-boolean-value": ["off"],
+	  "react/require-default-props": ["off"],
+	  "react/static-property-placement": ["off"],
+	  "react/jsx-props-no-spreading": ["off"],
+	  "jsx-quotes": ["off"],
+	  "implicit-arrow-linebreak":["off"],
+	  "comma-dangle": [
+		"error",
+		{
+		  "arrays": "never",
+		  "objects": "never",
+		  "imports": "never",
+		  "exports": "never",
+		  "functions": "never"
+		}
+	  ]
+	},
+	"settings": {
+	  "import/resolver": {
+		"node": {
+		  "extensions": [".js", ".android.js", ".ios.js"]
+		}
+	  }
+	},
+	"globals": {
+		"shallow": true,
+		"render": true,
+		"mount": true,
+		"__DEV__": true,
+		"FormData": true,
+		"hasOwnProperty": true
+	  },
+}
+  

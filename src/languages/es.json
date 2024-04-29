@@ -1,0 +1,199 @@
+{
+  "page2": {
+    "headerText": "Escanee el código \n QR del equipo tratado",
+    "cameraText": "Posicione el código QR número de serie INFINIGUARD® en el recuadro para escanearlo automáticamente"
+  },
+  "About_Us":{
+    "Title" : "¡Somos la solución para el Recubrimiento de Unidades HVAC y Refrigeración!",
+    "Text" :"INFINIGUARD® protege su equipo de HVAC modificando la superficie de los metales expuestos y encapsulando las unidades tratadas con una capa fina de siloxano ultra-fuerte, flexible y delgada. Una vez tratados con INFINIGUARD®, equipos de HVAC y refrigeración mantienen eficiencias como nuevos y son mucho más fácil de limpiar y dar mantenimiento."
+  },
+  "Guidelines":{
+    "Title":"Pautas para el mantenimiento de INFINIGUARD®",
+    "Text1":"Mínimo de tres limpiezas e inspecciones visuales por año registradas en la aplicación móvil de INFINIGUARD®.",
+    "Text2":"Las limpiezas deben ser realizadas siguiendo las pautas específicas de mantenimiento establecidas por Caribbean Energy Solutions.",
+    "Text3":"La limpieza debe con agua solamente.",
+    "Text4":"Las inspecciones visuales deben ser documentadas mediante la aplicación móvil INFINIGUARD® luego de haber terminado la limpieza y mantenimiento.",
+    "Text5":"El mantenimiento ayudará a su equipo a mantener una eficiencia “como nuevo”.",
+    "Text6" : "Para más información",
+    "Text7" : "CLIC AQUÍ"
+  },
+  "Warranty":{
+    "Title" : "Garantía Estándar",
+    "Text1" : "Se garantizan libres de defectos en material y mano de obra las aplicaciones INFINIGUARD® completadas por aplicadores certificados.",
+    "Text2" : "Se garantizan libres de defectos en material y mano de obra las aplicaciones INFINIGUARD® completadas por aplicadores certificados.",
+    "Text3" : "Para mantener su garantía INFINIGUARD®, es importante mantener el protocolo de mantenimiento especificado por Caribbean Energy Solutions.",
+    "Text4" : "Cualquier desviación del protocolo de mantenimiento establecido por Caribbean Energy Solutions deberá ser aprobada por escrito por Caribbean Energy Solutions para mantener la cobertura de la garantía.",
+    "Text5" : "Para más información",
+    "Text6" : "CLIC AQUÍ"
+   
+  },
+  "Contact_Us":{
+    "Title": "Contáctenos",
+    "Text1":"Por favor, siéntase en la libertad de comunicarse con nosotros dada cualquier pregunta.",
+    "Text2":"Correo electrónico:",
+    "Text3":"Teléfono:",
+    "Contact1":"Latino América:",
+    "Contact2":"Norte América:"
+  },
+  "Certified_Applicator_Login":{
+    "Title":"Iniciar Sesión de Aplicador Certificado",
+    "email":"Correo electrónico",
+    "pass":"Contraseña",
+    "serialNumber":"número de serie (opcional)",
+    "serialNumberText":"número de serie",
+    "login_button":"Iniciar Sesión",
+    "Forgot":"¿Problemas para iniciar sesión?",
+    "empty_email":"Por favor ingrese correo electrónico",
+    "empty_password":"Por favor ingrese contraseña",
+    "valid_email":"Por favor ingrese una dirección de correo electrónico válida",
+    "not_exits_title":"Usuario/Contraseña Incorrecta",
+    "not_exits":"Por favor verificar su usuario y/ó contraseña.",
+    "forget_email_not_exits":"Por favor verifique su dirección de correo electrónico. Esta dirección de correo electrónico no está registrada como aplicador certificado INFINIGUARD®.",
+    "email_sent":"Su contraseña ha sido enviada a su bandeja de entrada. Por favor revisar la bandeja de entrada de su correo electrónico asociada con su cuenta de aplicador certificado.",
+    "accout_disable":"Por favor contactar a info@infiniguard.com para asistencia adicional.",
+    "accout_disable_title":"Cuenta Desactivada",
+    "Verify_email_eixts":"Esta cuenta no existe",
+    "verify_email_extis_text":"Por favor verificar su dirección de correo electrónico. Este correo electrónico no esta registrado como un Aplicador Certificado INFINIGUARD®.",
+    "email_sent_title":"INFINIGUARD® Contraseña"
+
+    
+
+  },
+  "Scan_QR_Code_For_Equipment_Registeration":{
+    "Title":"Escanee el código QR \n para registrar su equipo",
+    "Camera_Text":"Posicione el código QR de INFINIGUARD® en el recuadro para escanearlo automáticamente"
+  },
+  "Side_Menu":{
+    "Register_equipment":"Registrar Equipo",
+    "Equipment_Maintenance_Registration":"Registro de Mantenimiento de Equipos",
+    "about":"INFINIGUARD®",
+    "maintenance":"Mantenimiento",
+    "warranty":"Garantía",
+    "contact":"Contacto",
+    "change":"Cambiar idioma",
+    "logout":"Cerrar Sesión"
+  },
+  "PROTECTED_EQUIPMENT_REGISTRATION":{
+    "Title1":"Registro del equipo protegido",
+    "Title2":"Seleccione los componentes protegidos de la unidad HVAC ",
+    "Condensor":"Serpentín de condensador ",
+    "Cabinet":"Gabinete ",
+    "Evaporator":"Serpentín de evaporador ",
+    "Yes":"SI ",
+    "No":"NO",
+    "Evaporator_heading":"Serpentín de evaporador",
+    "Full":"Completo",
+    "Edges":"Bordes solamente",
+    "Light":"Ligero",
+    "Back":"Atrás ",
+    "Take_Pic":"Tomar fotos del equipo protegido",
+    "Alert1":"Seleccione al menos un componente",
+    "Alert2":"Seleccione al menos una opción del serpentín del evaporador"
+  },
+  "REGISTRATION_COMPLETE":{
+    "Title":"Registro del equipo protegido completado!",
+    "Thankyou":"Gracias ",
+    "Text":"por completar y registrar la aplicación de INFINIGUARD® \n ¡Siga con el buen trabajo!",
+    "logout":"Cerrar sesión ",
+    "Register":"Registrar equipo adicional"
+    
+  },
+  "VerificationInfo":{
+    "Text":"Este código QR ya ha sido registrado ",
+    "Button":"Escanear código nuevo"
+  },
+  "InspectionScreen":{
+    "Title":"Registro de Mantenimiento",
+    "ModelNumber":"NÚMERO DE MODELO",
+    "SerialNumber":"Número de serie aplicación INFINIGUARD®",
+    "InspectionDate":"Fecha de la última inspección",
+    "AppliedDate":"Fecha de aplicación INFINIGUARD®",
+    "Back":"Atrás",
+    "TAkePic":"Tomar fotos del\nequipo protegido"
+  },
+  "InspectionThankyou":{
+    "Text1":"Gracias por realizar el mantenimiento e inspección de su equipo protegido con INFINIGUARD®. Esto ayuda a que su equipo funcione a máxima eficiencia y es requerido para mantener su garantía limitada de INFINIGUARD®. De surgir cualquier pregunta acerca de la protección de su equipo, por favor no dude en contactarnos.",
+    "Text2":"Gracias por escoger la mejor protección para su equipo, INFINIGUARD®.",
+    "Inspect":"Inspeccionar equipo\nadicional",
+    "reporting":"Suscribase para obtener recordatorios de futuros mantenimientos y reporte de inspección.",
+    "reportingBody":"Por favor proveer su primer nombre y correo electrónico para recibir un reporte de inspección y recordatorio de mantenimiento para la aplicación INFINIGUARD®",
+    "Submit":"Someter reclamo por garantía",
+    "report":"Regístrese para recibir recordatorios de mantenimiento y solicitar un informe de inspección.",
+    "reportingHeading":"Recordatorio de Mantenimiento y Reporte de Inspección",
+    "reportingThankuBodyOne":" a la dirección de correo electrónico proveída. También, estaremos haciendo llegar un recordatorio para el próximo mantenimiento en 90 días. De tener cualquier pregunta nos puede contactar a",
+    "reportingThankuBoday":"Gracias por proveer su información de contacto. Hemos recibido su solicitud y estaremos enviando un reporte de inspección para la aplicación INFINIGUARD®",
+    "justThankuMsg":"¡Gracias nuevamente y excelente día!"
+    
+  },
+  "WarrantyClaimScreen":{
+    "Heading":"Reclamo por Garantía",
+    "Title":"Por favor, provea información de contacto",
+    "Name":"Nombre",
+    "email":"Correo Electrónico ",
+    "phone":"Número de Teléfono",
+    "back":"Atrás ",
+    "Submit":"Someter",
+    "SignUp": "Inscribirse"
+  },
+  "WarrantyClaimContentScreen":{
+    "Title":"Garantía Limitada",
+    "Text1":"Lamentamos saber que el tratamiento con INFINIGUARD® de su equipo no se haya realizado a su satisfacción. Caribbean Energy Solutions respalda la solución más avanzada para proteger equipos industriales contra la corrosión. Un representante de INFINIGUARD® se pondrá en contacto con usted dentro de dos días hábiles (usualmente el mismo día) para abordar su reclamo de garantía, actuar rápidamente y así resolver el problema para mantener su equipo protegido contra los elementos y este opere a máxima eficiencia.",
+    "Text2":"Gracias por confiarnos sus necesidades de protección contra la corrosión.",
+    "Text3":"¡Que tenga excelente día!",
+    "button":"Inspeccionar equipo adicional"
+  },
+  "PicScreen":{
+    "alert_head":"Fotos del Equipo Protegido",
+    "alert_text":"Tome fotos de la placa del fabricante y el equipo",
+    "title1":"Tome foto de la placa del equipo con números de \n modelo y serie legibles",
+    "title2":"Tome foto del equipo protegido",
+    "back":"Atrás",
+    "takePic":"Tomar foto"
+  },
+  "ReviewPicture":{
+    "title1":"Revisar las fotos de registro del equipo",
+    "title2":"Seleccione imagen para editar",
+    "back":"Atrás",
+    "submit":"Someter",
+    "title3":"Tomar fotos adicionales",
+    "equipment_type":"¿El equipo es nuevo o usado?",
+    "new":"Nuevo",
+    "used":"Usado",
+    "addNotes":"Haga clic aquí para agregar notas",
+    "header":"Agregar/editar notas",
+    "placeholder":"Ingrese texto...",
+    "added":"Notas agregadas",
+    "ok":"OK",
+    "note_tile":"Notas:"   
+  },
+  "InspectionPic":{
+    "alert_head":"Fotos del Equipo Protegido",
+    "alert_text":"Tome fotografías claras de la placa de identificación del equipo y del equipo protegido.",
+    "title1":"Tome foto de la placa del equipo con números de modelo y serie legibles",
+    "title2":"Tome foto del equipo protegido",
+    "back":"Atrás ",
+    "takePic":"Tomar foto"
+  },
+  "InspectionReview":{
+    "title1":"Revisar fotos de registro del mantenimiento del equipo",
+    "title2":"Seleccione imagen para editar",
+    "back":"Atrás ",
+    "submit":"Someter",
+    "title3":"Tomar fotos adicionales"
+  },
+  "Forgot_Text":{
+    "title":"¿Se te olvidó tu contraseña?"
+  },
+  "Forgot_Screen":{
+    "Title":"Se te olvidó tu contraseña",
+    "sendButton":"Enviar",
+    "back_text":"Regresar a incio de sesión"
+  },
+  "invalid_code":{
+    "error_message":"Código QR no valido para registro INFINIGUARD®",
+    "scan_again":"Escanear otro código QR"
+  },
+  "error_message":{
+    "alreadyExits":"El componente ya está registrado"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "page2": {
+    "headerText": "Scan QR code \n of treated equipment",
+    "cameraText": "Place INFINIGUARD® Serial Number QR code in the box for automatic scan"
+  },
+  "About_Us":{
+    "Title" : "We are the Coating Solution for HVAC Units!",
+    "Text" :"INFINIGUARD® protects HVAC equipment by modifying the surface of exposed metals and encapsulating treated units with an ultra-strong, flexible, thin layer of siloxane. Once treated with INFINIGUARD®, HVAC and refrigeration equipment maintains like-new efficiency and is much easier to clean and maintain."
+  },
+  "Guidelines":{
+    "Title":"INFINIGUARD® Maintenance Guidelines",
+    "Text1":"3 cleanings and visual inspections per year minimum registered via the INFINIGUARD® mobile app.",
+    "Text2":"Cleanings to be performed following the Caribbean Energy Solutions specified maintenance guidelines.",
+    "Text3":"Cleaning to be done with water only.",
+    "Text4":"Visual inspections to be recorded using the INFINIGUARD® mobile app after completing cleaning and maintenance.",
+    "Text5":"Maintenance will help your equipment sustain “like-new” efficiency.",
+    "Text6":"For more information",
+    "Text7":"CLICK HERE"
+  },
+  "Warranty":{
+    "Title" : "Standard Warranty",
+    "Text1" : "INFINIGUARD® applications completed by certified applicators are guaranteed to be free of defects in material and workmanship.",
+    "Text2" : "NEW condenser coils treated with INFINIGUARD® are guaranteed to not corrode more than 25% (face area of coil).",
+    "Text3" : "In order to maintain your INFINIGUARD® warranty, it is important to follow the maintenance protocol specified by Caribbean Energy Solutions.",
+    "Text4" : "Any deviation from the maintenance protocol established by Caribbean Energy Solutions shall be approved in writing by Caribbean Energy Solutions to maintain warranty coverage.",
+    "Text5" : "For more information",
+    "Text6" : "CLICK HERE"
+  },
+  "Contact_Us":{
+    "Title": "Contact Us",
+    "Text1":"Please feel free to contact us with any questions.",
+    "Text2":"Email:",
+    "Text3":"By phone at:",
+    "Contact1":"Latin America:",
+    "Contact2":"North America:"
+  },
+  "Certified_Applicator_Login":{
+    "Title":"Certified Applicator Login",
+    "email":"Email Address",
+    "pass":"Password",
+    "login_button":"Login",
+     "serialNumber":"Serial Number (optional)",
+     "serialNumberText":"Serial Number",
+    "Forgot":"Having trouble logging in?",
+    "empty_email":"Please enter email",
+    "empty_password":"Please enter password",
+    "valid_email":"Please enter valid Email address",
+    "not_exits_title":"Incorrect Username/Password",
+    "not_exits":"Please verify your username and/or password.",
+    "forget_email_not_exits":"Please verify your email address. This email address is not registered as an INFINIGUARD® Certified Applicator.",
+    "email_sent":"Your password has been sent to your Inbox. Please check your certified applicator account email Inbox.",
+    "accout_disable":"Please contact info@infiniguard.com for additional assistance.",
+    "accout_disable_title":"Account Disabled",
+    "Verify_email_eixts":"Account does not exist",
+    "verify_email_extis_text":"Please verify your email address. This email address is not registered as an INFINIGUARD® Certified Applicator.",
+    "email_sent_title":"INFINIGUARD® Password"
+  },
+  "Scan_QR_Code_For_Equipment_Registeration":{
+    "Title":"Scan QR code \n of treated equipment",
+    "Camera_Text":"Place INFINIGUARD® Serial Number QR code in the box for automatic scan"
+  },
+  "Side_Menu":{
+    "Register_equipment":"Equipment Registration",
+    "Equipment_Maintenance_Registration":"Equipment Maintenance Registration",
+    "about":"INFINIGUARD®",
+    "maintenance":"Maintenance",
+    "warranty":"Warranty",
+    "contact":"Contact",
+    "change":"Change Language",
+    "logout":"Logout"
+  },
+  "PROTECTED_EQUIPMENT_REGISTRATION":{
+    "Title1":"Protected equipment registration",
+    "Title2":"Select protected HVAC components",
+    "Condensor":"Condenser Coil",
+    "Cabinet":"Cabinet",
+    "Evaporator":"Evaporator Coil",
+    "Yes":"Yes",
+    "No":"No",
+    "Evaporator_heading":"Evaporator Coil",
+    "Full":"Full",
+    "Edges":"Edges only",
+    "Light":"Light",
+    "Back":"Back",
+    "Take_Pic":"Take protected equipment pictures",
+    "Alert1":"Please select at least one component",
+    "Alert2":"Please select at least one option from evaporator coil"
+  },
+  "REGISTRATION_COMPLETE":{
+    "Title":"Protected equipment \nregistration complete!",
+    "Thankyou":"Thank you",
+    "Text":"for completing and registering the INFINIGUARD® application \n Keep up the good work!",
+    "logout":"Logout",
+    "Register":"Register additional equipment"
+  },
+  "VerificationInfo":{
+    "Text":"This QR code is already registered",
+    "Button":"Scan new code"
+  },
+  "InspectionScreen":{
+    "Title":"Maintenance Registration",
+    "ModelNumber":"MODEL NUMBER",
+    "SerialNumber":"INFINIGUARD® application serial number",
+    "InspectionDate":"Last unit inspection date",
+    "AppliedDate":"INFINIGUARD® application date",
+    "Back":"Back",
+    "TAkePic":"Take pictures of protected equipment"
+  },
+  "InspectionThankyou":{
+    "Text1":"Thank you for performing the maintenance and inspection for your INFINIGUARD® protected equipment. This helps your equipment to operate at peak efficiency and is required to maintain your INFINIGUARD® limited warranty. Should you have any questions about the protection on your equipment, please do not hesitate to contact us.",
+    "Text2":"Thank you for choosing the best protection for your equipment, INFINIGUARD®.",
+    "Inspect":"Inspect additional\nequipment",
+    "Submit":"Submit warranty claim",
+    "reporting":"Sign up for maintenance reminders and request inspection report.",
+    "reportingHeading":"Maintenance Reminder and Inspection Report",
+    "reportingBody":"Please provide your first name and email address to receive an inspection report and maintenance reminder for INFINIGUARD® application",
+    "reportingThankuBoday":"Thank you for providing your contact information. We have received your request and will be sending a maintenance inspection report for INFINIGUARD® application ",
+    "reportingThankuBodyOne":" to the email address provided. Also, we will be reminding you about upcoming maintenance in 90 days. Please feel free to contact maintenance@infiniguard.com with any questions.",
+    "justThankuMsg":"Thanks again and have a great day!"
+  },
+  "WarrantyClaimScreen":{
+    "Heading":"Warranty Claim",
+    "Title":"Please provide contact information",
+    "Name":"Name",
+    "email":"Email Address",
+    "phone":"Phone Number",
+    "back":"Back",
+    "Submit":"Submit",
+    "SignUp": "Sign Up"
+  },
+  "WarrantyClaimContentScreen":{
+    "Title":"Limited Warranty",
+    "Text1":"We are sorry to hear that the INFINIGUARD® treatment for your equipment has not performed to your satisfaction. Caribbean Energy Solutions stands behind the most advanced solution to protect industrial equipment against corrosion. A representative of INFINIGUARD® will be in contact with you in 2 business days or less (usually same day) in order to address your warranty claim and act swiftly in resolving the issue to keep your equipment protected against the elements and operating at peak efficiency.",
+    "Text2":"Thank you for trusting us with your corrosion protection needs.",
+    "Text3":"Have a great day!",
+    "button":"Inspect additional equipment"
+  },
+  "PicScreen":{
+    "alert_head":"Protected Equipment Pictures",
+    "alert_text":"Please take clear pictures of equipment nameplate and protected equipment.",
+    "title1":"Take picture of nameplate with model and \n serial number legible",
+    "title2":"Take picture of protected equipment",
+    "back":"Back",
+    "takePic":"Take picture"
+  },
+  "ReviewPicture":{
+    "title1":"Review equipment registration pictures",
+    "title2":"Tap image to edit",
+    "back":"Back",
+    "submit":"Submit",
+    "title3":"Take additional pictures",
+    "equipment_type":"Is equipment new or used?",
+    "new":"New",
+    "used":"Used",
+    "addNotes":"Click here to add notes",
+    "header":"Add/Edit Notes",
+    "placeholder":"Enter text..",
+    "added":"Notes",
+    "ok":"OK",
+    "note_tile":"Notes:",
+    "edit_node":"Notes:"
+  },
+  "InspectionPic":{
+    "alert_head":"Protected Equipment Photo",
+    "alert_text":"Take pictures of manufacturer's nameplate and equipment",
+    "title1":"Take picture of nameplate with model and \n serial number legible",
+    "title2":"Take picture of protected equipment",
+    "back":"Back",
+    "takePic":"Take picture"
+  },
+  "InspectionReview":{
+    "title1":"Review equipment maintenance registration pictures",
+    "title2":"Tap image to edit",
+    "back":"Back",
+    "submit":"Submit",
+    "title3":"Take additional pictures"
+  },
+  "Forgot_Text":{
+    "title":"Forgot Password?"
+  },
+  "Forgot_Screen":{
+    "Title":"Forgot Password",
+    "sendButton":"Send",
+    "back_text":"Back to login"
+
+  },
+  "invalid_code":{
+    "error_message":"This QR code is not valid for INFINIGUARD® registration",
+    "scan_again":"Scan new code"
+  },
+  "error_message":{
+    "alreadyExits":"Component is already registered"
+  }
+}

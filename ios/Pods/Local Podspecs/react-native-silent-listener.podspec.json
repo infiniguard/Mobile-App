@@ -1,0 +1,24 @@
+{
+  "name": "react-native-silent-listener",
+  "version": "0.1.0",
+  "summary": "listen when user enable or disable silent mode",
+  "homepage": "https://github.com/GeorgyMishin/react-native-silent-listener#readme",
+  "license": "MIT",
+  "authors": "Georgy Mishin <geomishin@gmail.com> (https://github.com/GeorgyMishin)",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/GeorgyMishin/react-native-silent-listener.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "ios/**/*.{h,m,mm,swift}",
+  "dependencies": {
+    "React": [
+
+    ],
+    "Mute": [
+
+    ]
+  }
+}

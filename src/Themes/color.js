@@ -1,0 +1,20 @@
+export const colors={
+  loginPrimary:'#07bcef',
+  logoutPrimary:'#83b2bf',
+  loginSecondary:'#2bc6f2',
+  colorWhite:'#FFFFFF',
+  colorBlack:'#000000',
+  colorRed:'#FF0000',
+  colorGreen:'#0FC700',
+	colorYellow:'#FFFF00',
+	colorOrange:'#FFD700',
+  colorGrey:'#D8D8D8',
+  colorTextGrey:'#808080',
+  colorInactiveTab:'#EAEAEA',
+  colorPlaceholder:'#A0A0A099',
+  colorBorder:'#0000001F',
+	colorDarkTransparent:'#00000080',
+	colorLightTransparent:'#00000050',
+  loginGradient:['#74b3c5','#57b7d0','#1dbae5','#07bcef'],
+  logoutGradient:['#83b2bf','#83b2bf']
+}

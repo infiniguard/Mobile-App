@@ -1,0 +1,6 @@
+module react_native_silent_listener {
+  umbrella header "react-native-silent-listener-umbrella.h"
+
+  export *
+  module * { export * }
+}
